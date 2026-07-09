@@ -9,3 +9,6 @@ static void GreetBlack()
 }
 
 Console.WriteLine("hello everyone");
+
+GreetWhite();
+GreetBlack();
